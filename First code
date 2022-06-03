@@ -2,4 +2,4 @@ function sayHi(user) {
   return `Hello ${user}`;
 }
 
-sayHi('John');
+console.log(sayHi('John');
